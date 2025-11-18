@@ -1,4 +1,7 @@
 h1{
+    margin-bottom: 1in;
+    margin-left: 1in;
+    margin-right: 1in;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
@@ -6,12 +9,16 @@ h1{
     text-indent: 1in;
 }
 h2{
+    margin-left: 1in;
+    margin-right: 1in;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: 12px;
     text-indent: 1in;
 }
 h3{
+    margin-left: 1in;
+    margin-right: 1in;
     font-family: 'Times New Roman', Times, serif;
     text-decoration: underline;
     font-weight: bold;
@@ -19,6 +26,8 @@ h3{
     text-indent: 1in;
 }
 h4{
+    margin-left: 1in;
+    margin-right: 1in;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     font-size: 12px;
@@ -26,6 +35,8 @@ h4{
     
 }
 h5{
+    margin-left: 1in;
+    margin-right: 1in;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 11px;
     text-indent: 1in;
