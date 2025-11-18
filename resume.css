@@ -1,7 +1,7 @@
 h1{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    text-decoration: solid;
+    font-weight: bold;
 }
 h2{
     text-align: center;
@@ -9,12 +9,13 @@ h2{
 }
 h3{
     font-family: 'Times New Roman', Times, serif;
-    text: bold;
     text-decoration: underline;
+    font-weight: bold;
 }
 h4{
     font-family: 'Times New Roman', Times, serif;
-    text-decoration: solid;
+    font-weight: bold;
+    
 }
 h5{
     font-family: Arial, Helvetica, sans-serif;
