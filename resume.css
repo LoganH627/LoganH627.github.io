@@ -1,8 +1,8 @@
 
 h1{
     margin-top: 1in;
-    margin-left: 0.5in;
-    margin-right: 0.5in;
+    margin-left: 0.7in;
+    margin-right: 0.7in;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
@@ -10,8 +10,8 @@ h1{
     line-height: 2;
 }
 h2{
-    margin-left: 0.5in;
-    margin-right: 0.5in;
+    margin-left: 0.7in;
+    margin-right: 0.7in;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: 12px;
@@ -19,8 +19,8 @@ h2{
     
 }
 h3{
-    margin-left: 0.5in;
-    margin-right: 0.5in;
+    margin-left: 0.7in;
+    margin-right: 0.7in;
     font-family: 'Times New Roman', Times, serif;
     text-decoration: underline;
     font-weight: bold;
@@ -29,8 +29,8 @@ h3{
     
 }
 h4{
-    margin-left: 0.5in;
-    margin-right: 0.5in;
+    margin-left: 0.7in;
+    margin-right: 0.7in;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     font-size: 12px;
@@ -38,19 +38,22 @@ h4{
     
 }
 h5{
-    margin-left: 0.5in;
-    margin-right: 0.5in;
+    margin-left: 0.7in;
+    margin-right: 0.7in;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 11px;
     line-height: 1;
 }
 h6{
-   margin-right: 0.5in;
+   margin-right: 0.7in;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 11px;
     line-height: 1; 
 }
 ul{
-    margin-left: 0.5in;
+    margin-left: 0.7in;
     list-style-type: disc;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    line-height: 1; 
 }
