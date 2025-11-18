@@ -44,3 +44,6 @@ h5{
     font-size: 11px;
     line-height: 100%;
 }
+ul{
+    list-style-type: disc;
+}
