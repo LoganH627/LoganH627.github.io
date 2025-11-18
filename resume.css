@@ -26,7 +26,7 @@ h3{
     text-decoration: underline;
     font-weight: bold;
     font-size: 13px;
-    line-height: 0;
+    line-height: -1;
     
 }
 h4{
@@ -63,5 +63,5 @@ h7{
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     font-size: 12px;
-    line-height: 0;   
+    line-height: -1;   
 }
