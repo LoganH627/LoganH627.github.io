@@ -1,24 +1,28 @@
-h1{
+body{
     margin-bottom: 1in;
-    margin-left: 1in;
-    margin-right: 1in;
+}
+h1{
+
+    margin-left: 0.5in;
+    margin-right: 0.5in;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     font-size: 18px;
-    text-indent: 1in;
+    text-indent: 2in;
 }
 h2{
-    margin-left: 1in;
-    margin-right: 1in;
+    margin-left: 0.5in;
+    margin-right: 0.5in;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: 12px;
     text-indent: 1in;
+    
 }
 h3{
-    margin-left: 1in;
-    margin-right: 1in;
+    margin-left: 0.5in;
+    margin-right: 0.5in;
     font-family: 'Times New Roman', Times, serif;
     text-decoration: underline;
     font-weight: bold;
@@ -26,17 +30,17 @@ h3{
     text-indent: 1in;
 }
 h4{
-    margin-left: 1in;
-    margin-right: 1in;
+    margin-left: 0.5in;
+    margin-right: 0.5in;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     font-size: 12px;
-    text-indent: 1in;
+    text-indent: 2in;
     
 }
 h5{
-    margin-left: 1in;
-    margin-right: 1in;
+    margin-left: 0.5in;
+    margin-right: 0.5in;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 11px;
     text-indent: 1in;
