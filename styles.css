@@ -24,10 +24,11 @@
   }
   a{
     text-decoration: none;
-    color: yellow;
+    color: white;
      text-align: center;
   }
   .project p{
+    color: yellow;
     text-align: center;
     margin: 15px;
   }
